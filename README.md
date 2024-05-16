@@ -11,7 +11,7 @@ LandCrafter is a terrain generation tool that simulates the impact of dirtballs 
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/LandCrafter.git
+   git clone https://github.com/X-XENDROME-X/LandCrafter.git
    cd LandCrafter
    ```
 2. Compile and Run
